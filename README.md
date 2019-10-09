@@ -3,7 +3,7 @@ A PHP application to demonstrate anti-csrf mechanism- synchronizer token pattern
 
 
 Setup Requirements:
-WAMP (for windows users) or LAMP (for Linux users) installed on your machines.
+XAMPP (for windows users) or LAMP (for Linux users) installed on your machines.
 
 Running the App:
 Clone this repository.
